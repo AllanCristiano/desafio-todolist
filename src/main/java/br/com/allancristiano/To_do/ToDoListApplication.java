@@ -1,4 +1,4 @@
-package br.com.allancristiano.To_do.list;
+package br.com.allancristiano.To_do;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
